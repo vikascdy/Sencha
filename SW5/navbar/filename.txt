@@ -1,0 +1,114 @@
+Sencha Cmd v5.0.1.231
+[INF] Processing Build Descriptor : default
+[INF] Loading app json manifest...
+[INF] Writing content to C:\Users\vikachou\Desktop\SW5\navbar/bootstrap.js
+[INF] Writing content to C:\Users\vikachou\Desktop\SW5\navbar/bootstrap.json
+[WRN] C1014: callParent has no target (this.callParent in Ext.form.field.Picker.onOtherFocus) -- C:\Users\vikachou\Desktop\SW5\ext\src\form\field\Picker.js:325
+[WRN] C1014: callParent has no target (me.callParent in Ext.form.field.Tag.mimicBlur) -- C:\Users\vikachou\Desktop\SW5\ext\src\form\field\Tag.js:1298
+[WRN] C1014: callParent has no target (me.callParent in Ext.grid.plugin.RowEditing.startEditByClick) -- C:\Users\vikachou\Desktop\SW5\ext\src\grid\plugin\RowEditing.js:278
+[WRN] C1014: callParent has no target (this.callParent in Ext.rtl.selection.CellModel.doMove) -- C:\Users\vikachou\Desktop\SW5\ext\src\rtl\selection\CellModel.js:12
+[WRN] C1014: callParent has no target (this.callParent in Ext.rtl.selection.TreeModel.onKeyRight) -- C:\Users\vikachou\Desktop\SW5\ext\src\rtl\selection\TreeModel.js:8
+[WRN] C1014: callParent has no target (this.callParent in Ext.rtl.selection.TreeModel.onKeyLeft) -- C:\Users\vikachou\Desktop\SW5\ext\src\rtl\selection\TreeModel.js:16
+[WRN] C1014: callParent has no target (this.callParent in Ext.ux.TabCloseMenu.onBeforeDestroy) -- C:\Users\vikachou\Desktop\SW5\ext\src\ux\TabCloseMenu.js:83
+[INF] Compressing data with YuiJavascriptCompressor
+[INF] Concatenating output to file C:\Users\vikachou\Desktop\SW5\build\production\navbar\app.js
+[INF] merging resources into C:\Users\vikachou\Desktop\SW5\build\production\navbar\resources
+[INF] merged 944 resources into C:\Users\vikachou\Desktop\SW5\build\production\navbar\resources
+[INF] merging resources into C:\Users\vikachou\Desktop\SW5\build\production\navbar\resources
+[INF] merged 0 resources into C:\Users\vikachou\Desktop\SW5\build\production\navbar\resources
+[INF] writing sass content to C:\Users\vikachou\Desktop\SW5/build/temp/production/navbar/sass/navbar-all.scss.tmp
+[INF] appending sass content to C:\Users\vikachou\Desktop\SW5/build/temp/production/navbar/sass/navbar-all.scss.tmp
+[INF] appending sass content to C:\Users\vikachou\Desktop\SW5/build/temp/production/navbar/sass/navbar-all.scss.tmp
+[INF] writing sass content to C:\Users\vikachou\Desktop\SW5/build/temp/production/navbar/sass/config.rb
+[INF] executing compass using system installed ruby runtime
+WARNING: @theme-background-image: Theme image not found: images/toolbar/default-scroll-top.png
+         on line 18 of C:/Users/vikachou/Desktop/SW5/build/temp/production/navbar/sass/../../../../../ext/packages/ext-theme-base/sass/etc/mixins/theme-background-image.scss
+         from line 323 of C:/Users/vikachou/Desktop/SW5/build/temp/production/navbar/sass/../../../../../ext/packages/ext-theme-neutral/sass/src/toolbar/Toolbar.scss
+         from line 353 of C:/Users/vikachou/Desktop/SW5/build/temp/production/navbar/sass/../../../../../ext/packages/ext-theme-neutral/sass/src/toolbar/Toolbar.scss
+         from line 872 of C:/Users/vikachou/Desktop/SW5/build/temp/production/navbar/sass/navbar-all.scss
+WARNING: @theme-background-image: Theme image not found: images/toolbar/default-scroll-bottom.png
+         on line 18 of C:/Users/vikachou/Desktop/SW5/build/temp/production/navbar/sass/../../../../../ext/packages/ext-theme-base/sass/etc/mixins/theme-background-image.scss
+         from line 323 of C:/Users/vikachou/Desktop/SW5/build/temp/production/navbar/sass/../../../../../ext/packages/ext-theme-neutral/sass/src/toolbar/Toolbar.scss
+         from line 353 of C:/Users/vikachou/Desktop/SW5/build/temp/production/navbar/sass/../../../../../ext/packages/ext-theme-neutral/sass/src/toolbar/Toolbar.scss
+         from line 872 of C:/Users/vikachou/Desktop/SW5/build/temp/production/navbar/sass/navbar-all.scss
+WARNING: @theme-background-image: Theme image not found: images/toolbar/footer-scroll-left.png
+         on line 18 of C:/Users/vikachou/Desktop/SW5/build/temp/production/navbar/sass/../../../../../ext/packages/ext-theme-base/sass/etc/mixins/theme-background-image.scss
+         from line 323 of C:/Users/vikachou/Desktop/SW5/build/temp/production/navbar/sass/../../../../../ext/packages/ext-theme-neutral/sass/src/toolbar/Toolbar.scss
+         from line 363 of C:/Users/vikachou/Desktop/SW5/build/temp/production/navbar/sass/../../../../../ext/packages/ext-theme-neutral/sass/src/toolbar/Toolbar.scss
+         from line 872 of C:/Users/vikachou/Desktop/SW5/build/temp/production/navbar/sass/navbar-all.scss
+WARNING: @theme-background-image: Theme image not found: images/toolbar/footer-scroll-right.png
+         on line 18 of C:/Users/vikachou/Desktop/SW5/build/temp/production/navbar/sass/../../../../../ext/packages/ext-theme-base/sass/etc/mixins/theme-background-image.scss
+         from line 323 of C:/Users/vikachou/Desktop/SW5/build/temp/production/navbar/sass/../../../../../ext/packages/ext-theme-neutral/sass/src/toolbar/Toolbar.scss
+         from line 363 of C:/Users/vikachou/Desktop/SW5/build/temp/production/navbar/sass/../../../../../ext/packages/ext-theme-neutral/sass/src/toolbar/Toolbar.scss
+         from line 872 of C:/Users/vikachou/Desktop/SW5/build/temp/production/navbar/sass/navbar-all.scss
+WARNING: @theme-background-image: Theme image not found: images/toolbar/edifecs-doormatnavigation-toolbar-scroll-left.png
+         on line 18 of C:/Users/vikachou/Desktop/SW5/build/temp/production/navbar/sass/../../../../../ext/packages/ext-theme-base/sass/etc/mixins/theme-background-image.scss
+         from line 323 of C:/Users/vikachou/Desktop/SW5/build/temp/production/navbar/sass/../../../../../ext/packages/ext-theme-neutral/sass/src/toolbar/Toolbar.scss
+         from line 200 of C:/Users/vikachou/Desktop/SW5/build/temp/production/navbar/sass/../../../../../packages/ext-theme-edifecs/sass/src/edifecs/DoorMateNavigation.scss
+         from line 1 of C:/Users/vikachou/Desktop/SW5/build/temp/production/navbar/sass/../../../../../packages/ext-theme-edifecs/sass/src/Component.scss
+         from line 883 of C:/Users/vikachou/Desktop/SW5/build/temp/production/navbar/sass/navbar-all.scss
+WARNING: @theme-background-image: Theme image not found: images/toolbar/edifecs-doormatnavigation-toolbar-scroll-right.png
+         on line 18 of C:/Users/vikachou/Desktop/SW5/build/temp/production/navbar/sass/../../../../../ext/packages/ext-theme-base/sass/etc/mixins/theme-background-image.scss
+         from line 323 of C:/Users/vikachou/Desktop/SW5/build/temp/production/navbar/sass/../../../../../ext/packages/ext-theme-neutral/sass/src/toolbar/Toolbar.scss
+         from line 200 of C:/Users/vikachou/Desktop/SW5/build/temp/production/navbar/sass/../../../../../packages/ext-theme-edifecs/sass/src/edifecs/DoorMateNavigation.scss
+         from line 1 of C:/Users/vikachou/Desktop/SW5/build/temp/production/navbar/sass/../../../../../packages/ext-theme-edifecs/sass/src/Component.scss
+         from line 883 of C:/Users/vikachou/Desktop/SW5/build/temp/production/navbar/sass/navbar-all.scss
+WARNING: @theme-background-image: Theme image not found: images/toolbar/edifecs-doormatnavigation-toolbar-scroll-top.png
+         on line 18 of C:/Users/vikachou/Desktop/SW5/build/temp/production/navbar/sass/../../../../../ext/packages/ext-theme-base/sass/etc/mixins/theme-background-image.scss
+         from line 323 of C:/Users/vikachou/Desktop/SW5/build/temp/production/navbar/sass/../../../../../ext/packages/ext-theme-neutral/sass/src/toolbar/Toolbar.scss
+         from line 200 of C:/Users/vikachou/Desktop/SW5/build/temp/production/navbar/sass/../../../../../packages/ext-theme-edifecs/sass/src/edifecs/DoorMateNavigation.scss
+         from line 1 of C:/Users/vikachou/Desktop/SW5/build/temp/production/navbar/sass/../../../../../packages/ext-theme-edifecs/sass/src/Component.scss
+         from line 883 of C:/Users/vikachou/Desktop/SW5/build/temp/production/navbar/sass/navbar-all.scss
+WARNING: @theme-background-image: Theme image not found: images/toolbar/edifecs-doormatnavigation-toolbar-scroll-bottom.png
+         on line 18 of C:/Users/vikachou/Desktop/SW5/build/temp/production/navbar/sass/../../../../../ext/packages/ext-theme-base/sass/etc/mixins/theme-background-image.scss
+         from line 323 of C:/Users/vikachou/Desktop/SW5/build/temp/production/navbar/sass/../../../../../ext/packages/ext-theme-neutral/sass/src/toolbar/Toolbar.scss
+         from line 200 of C:/Users/vikachou/Desktop/SW5/build/temp/production/navbar/sass/../../../../../packages/ext-theme-edifecs/sass/src/edifecs/DoorMateNavigation.scss
+         from line 1 of C:/Users/vikachou/Desktop/SW5/build/temp/production/navbar/sass/../../../../../packages/ext-theme-edifecs/sass/src/Component.scss
+         from line 883 of C:/Users/vikachou/Desktop/SW5/build/temp/production/navbar/sass/navbar-all.scss
+WARNING: @theme-background-image: Theme image not found: images/toolbar/edifecs-doormatnavigation-toolbar-more.png
+         on line 18 of C:/Users/vikachou/Desktop/SW5/build/temp/production/navbar/sass/../../../../../ext/packages/ext-theme-base/sass/etc/mixins/theme-background-image.scss
+         from line 200 of C:/Users/vikachou/Desktop/SW5/build/temp/production/navbar/sass/../../../../../packages/ext-theme-edifecs/sass/src/edifecs/DoorMateNavigation.scss
+         from line 1 of C:/Users/vikachou/Desktop/SW5/build/temp/production/navbar/sass/../../../../../packages/ext-theme-edifecs/sass/src/Component.scss
+         from line 883 of C:/Users/vikachou/Desktop/SW5/build/temp/production/navbar/sass/navbar-all.scss
+WARNING: @theme-background-image: Theme image not found: images/toolbar/edifecs-applicationbar-notification-scroll-left.png
+         on line 18 of C:/Users/vikachou/Desktop/SW5/build/temp/production/navbar/sass/../../../../../ext/packages/ext-theme-base/sass/etc/mixins/theme-background-image.scss
+         from line 323 of C:/Users/vikachou/Desktop/SW5/build/temp/production/navbar/sass/../../../../../ext/packages/ext-theme-neutral/sass/src/toolbar/Toolbar.scss
+         from line 160 of C:/Users/vikachou/Desktop/SW5/build/temp/production/navbar/sass/../../../../../packages/ext-theme-edifecs/sass/src/edifecs/DoorMateNavigation-AppBar.scss
+         from line 3 of C:/Users/vikachou/Desktop/SW5/build/temp/production/navbar/sass/../../../../../packages/ext-theme-edifecs/sass/src/Component.scss
+         from line 883 of C:/Users/vikachou/Desktop/SW5/build/temp/production/navbar/sass/navbar-all.scss
+WARNING: @theme-background-image: Theme image not found: images/toolbar/edifecs-applicationbar-notification-scroll-right.png
+         on line 18 of C:/Users/vikachou/Desktop/SW5/build/temp/production/navbar/sass/../../../../../ext/packages/ext-theme-base/sass/etc/mixins/theme-background-image.scss
+         from line 323 of C:/Users/vikachou/Desktop/SW5/build/temp/production/navbar/sass/../../../../../ext/packages/ext-theme-neutral/sass/src/toolbar/Toolbar.scss
+         from line 160 of C:/Users/vikachou/Desktop/SW5/build/temp/production/navbar/sass/../../../../../packages/ext-theme-edifecs/sass/src/edifecs/DoorMateNavigation-AppBar.scss
+         from line 3 of C:/Users/vikachou/Desktop/SW5/build/temp/production/navbar/sass/../../../../../packages/ext-theme-edifecs/sass/src/Component.scss
+         from line 883 of C:/Users/vikachou/Desktop/SW5/build/temp/production/navbar/sass/navbar-all.scss
+WARNING: @theme-background-image: Theme image not found: images/toolbar/edifecs-applicationbar-notification-scroll-top.png
+         on line 18 of C:/Users/vikachou/Desktop/SW5/build/temp/production/navbar/sass/../../../../../ext/packages/ext-theme-base/sass/etc/mixins/theme-background-image.scss
+         from line 323 of C:/Users/vikachou/Desktop/SW5/build/temp/production/navbar/sass/../../../../../ext/packages/ext-theme-neutral/sass/src/toolbar/Toolbar.scss
+         from line 160 of C:/Users/vikachou/Desktop/SW5/build/temp/production/navbar/sass/../../../../../packages/ext-theme-edifecs/sass/src/edifecs/DoorMateNavigation-AppBar.scss
+         from line 3 of C:/Users/vikachou/Desktop/SW5/build/temp/production/navbar/sass/../../../../../packages/ext-theme-edifecs/sass/src/Component.scss
+         from line 883 of C:/Users/vikachou/Desktop/SW5/build/temp/production/navbar/sass/navbar-all.scss
+WARNING: @theme-background-image: Theme image not found: images/toolbar/edifecs-applicationbar-notification-scroll-bottom.png
+         on line 18 of C:/Users/vikachou/Desktop/SW5/build/temp/production/navbar/sass/../../../../../ext/packages/ext-theme-base/sass/etc/mixins/theme-background-image.scss
+         from line 323 of C:/Users/vikachou/Desktop/SW5/build/temp/production/navbar/sass/../../../../../ext/packages/ext-theme-neutral/sass/src/toolbar/Toolbar.scss
+         from line 160 of C:/Users/vikachou/Desktop/SW5/build/temp/production/navbar/sass/../../../../../packages/ext-theme-edifecs/sass/src/edifecs/DoorMateNavigation-AppBar.scss
+         from line 3 of C:/Users/vikachou/Desktop/SW5/build/temp/production/navbar/sass/../../../../../packages/ext-theme-edifecs/sass/src/Component.scss
+         from line 883 of C:/Users/vikachou/Desktop/SW5/build/temp/production/navbar/sass/navbar-all.scss
+WARNING: @theme-background-image: Theme image not found: images/toolbar/edifecs-applicationbar-notification-more.png
+         on line 18 of C:/Users/vikachou/Desktop/SW5/build/temp/production/navbar/sass/../../../../../ext/packages/ext-theme-base/sass/etc/mixins/theme-background-image.scss
+         from line 160 of C:/Users/vikachou/Desktop/SW5/build/temp/production/navbar/sass/../../../../../packages/ext-theme-edifecs/sass/src/edifecs/DoorMateNavigation-AppBar.scss
+         from line 3 of C:/Users/vikachou/Desktop/SW5/build/temp/production/navbar/sass/../../../../../packages/ext-theme-edifecs/sass/src/Component.scss
+         from line 883 of C:/Users/vikachou/Desktop/SW5/build/temp/production/navbar/sass/navbar-all.scss
+WARNING: @theme-background-image: Theme image not found: images/null.png
+         on line 18 of C:/Users/vikachou/Desktop/SW5/build/temp/production/navbar/sass/../../../../../ext/packages/ext-theme-base/sass/etc/mixins/theme-background-image.scss
+         from line 885 of C:/Users/vikachou/Desktop/SW5/build/temp/production/navbar/sass/navbar-all.scss
+   create navbar-all.css 
+[INF] Copying page resources to C:\Users\vikachou\Desktop\SW5\build\production\navbar
+[INF] Generating file deltas to C:\Users\vikachou\Desktop\SW5/build/production/navbar/deltas
+[INF] Writing content to C:\Users\vikachou\Desktop\SW5/build/production/navbar/app.json
+[INF] Writing content to C:\Users\vikachou\Desktop\SW5/build/production/navbar/microloader.js
+[INF] Appending content to C:\Users\vikachou\Desktop\SW5/build/production/navbar/microloader.js
+[INF] Building output markup to C:\Users\vikachou\Desktop\SW5/build/production/navbar/index.html
+[INF] Writing content to C:\Users\vikachou\Desktop\SW5/build/production/navbar/index.html
+[INF] generating cache manifest to C:\Users\vikachou\Desktop\SW5/build/production/navbar/cache.appcache
+

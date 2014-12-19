@@ -1,0 +1,15 @@
+#content-panel-body {
+
+}
+
+#content-panel-innerCt {
+    padding: 20px;
+    vertical-align: middle;
+    > * {
+        margin: auto;
+    }
+}
+
+.kitchensink .x-tip-body-default {
+    color: #000000 !important;
+}

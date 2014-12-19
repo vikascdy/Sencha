@@ -1,0 +1,63 @@
+{
+    "navigation": [
+        {
+            "id": "workspaceId",
+            "linkUrl": "/",
+            "tooltip": "Workspace",
+            "type": "home"
+        },
+        {
+            "id": "doormatId",
+            "type": "doormatNavigation",
+            "tooltip": "Doormat Navigation",
+            "hidden": false
+        },
+        {
+            "id": "spacerId",
+            "text": "tbspacer"
+        },
+        {
+            "id": "searchId",
+            "tooltip": "Search",
+            "hidden": false,
+            "type": "search"
+        },
+        {
+            "id": "notifyId",
+            "tooltip": "Notification",
+            "hidden": false,
+            "type": "notification"
+        },
+        {
+            "id": "favouriteId",
+            "tooltip": "Favourite",
+            "hidden": false,
+            "type": "favourite"
+        },
+        {
+            "type": "simpleMenu",
+            "tooltip": "User Menu",
+            "subMenu": [
+                {
+                    "text": "Alexandr Gheneralov",
+                    "id": "userId",
+                    "description": "EDIFECS, INC"
+                },
+                {
+                    "text": "Profile Settings",
+                    "id": "profileSettingsId"
+                },
+                {
+                    "text": "Help",
+                    "id": "helpId",
+                    "href": "http://www.edifecs.com",
+                    "hrefTarget": "_blank"
+                },
+                {
+                    "text": "Log Out",
+                    "id": "logoutId"
+                }
+            ]
+        }
+    ]
+}

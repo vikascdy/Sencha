@@ -1,0 +1,37 @@
+
+@import 'Toolbar';
+
+$breadcrumb-button-ui: 'default-toolbar' !default;
+
+$breadcrumb-button-spacing: 0px !default;
+
+$breadcrumb-arrow-width: $button-small-split-width !default;
+
+$breadcrumb-split-width: $button-small-split-width !default;
+
+$breadcrumb-folder-icon: 'tree/folder' !default;
+
+$breadcrumb-leaf-icon: 'tree/leaf' !default;
+$breadcrumb-include-menu-active-arrow: true !default;
+$breadcrumb-include-split-over-arrow: true !default;
+$breadcrumb-scroller-width: 14px !default;
+$breadcrumb-scroller-height: 22px !default;
+$breadcrumb-scroller-border-color: #8db2e3 !default;
+$breadcrumb-scroller-border-width: 0 0 1px !default;
+$breadcrumb-scroller-top-margin: 4px 0px !default;
+$breadcrumb-scroller-right-margin: 0px 4px !default;
+$breadcrumb-scroller-bottom-margin: 4px 0px !default;
+$breadcrumb-scroller-left-margin: 0 4px !default;
+
+$breadcrumb-scroller-cursor: pointer !default;
+$breadcrumb-scroller-cursor-disabled: default !default;
+$breadcrumb-scroller-opacity: 0.6 !default;
+
+$breadcrumb-scroller-opacity-over: 0.8 !default;
+
+$breadcrumb-scroller-opacity-pressed: 1 !default;
+
+$breadcrumb-scroller-opacity-disabled: 0.25 !default;
+
+$breadcrumb-classic-scrollers: true !default;
+$include-breadcrumb-default-ui: true !default;

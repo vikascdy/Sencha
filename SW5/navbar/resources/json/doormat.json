@@ -1,0 +1,324 @@
+[
+    {
+        "id": "transactionId",
+        "name": "Transaction Managenemt",
+        "tooltip": "Transaction Managenemt",
+        "taskheading": "tasks",
+        "active": true,
+        "contextHelp": true,
+        "icon": "./resources/images/doormat/tm.png",
+        "defaultLinkUrl":"#",
+        "menu": [
+            {
+                "columnOne": [
+                    {
+                        "text": "Transmissions",
+                        "linkUrl": "http://www.yahoo.com",
+                        "hrefTarget" : "_blank",
+                        "id": "transmissionsId"
+                    },
+                    {
+                        "text": "Interchanges",
+                        "linkUrl": "#",
+                        "id": "interchangesId",
+                        "javascript":"alert('hello')"
+                    },
+                    {
+                        "text": "Functional Groups",
+                        "linkUrl": "#",
+                        "id": "functionalGroupsId"
+                    },
+                    {
+                        "text": "Claim Batches",
+                        "linkUrl": "#",
+                        "id": "claimBatchesId"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Interchange Acks",
+                        "linkUrl": "#",
+                        "id": "interchangeAcksId"
+                    },
+                    {
+                        "text": "Implementation Acks",
+                        "linkUrl": "#",
+                        "id": "implementationAcksId"
+                    },
+                    {
+                        "text": "Claim Acks",
+                        "linkUrl": "#",
+                        "id": "claimAcksId"
+                    }
+                ]
+            },
+            {
+                "columnTwo": [
+                    {
+                        "text": "Claims",
+                        "linkUrl": "#",
+                        "id": "claimsId"
+                    },
+                    {
+                        "text": "Claim Payments",
+                        "linkUrl": "#",
+                        "id": "claimPaymentsId"
+                    },
+                    {
+                        "text": "Claim Status",
+                        "linkUrl": "#",
+                        "id": "claimStatusId",
+                        "subMenu": [
+                            {
+                                "text": "Request",
+                                "linkUrl": "#",
+                                "id": "claimStatusRequestId"
+                            },
+                            {
+                                "text": "Response",
+                                "linkUrl": "#",
+                                "id": "claimStatusResponseId"
+                            },
+                            {
+                                "text": "Batches",
+                                "linkUrl": "#",
+                                "id": "claimStatusBatchesId"
+                            }
+                        ]
+                    },
+                    {
+                        "text": "Eligibility Benefit",
+                        "linkUrl": "#",
+                        "id": "eligibilityBenefitId",
+                        "subMenu": [
+                            {
+                                "text": "Requests",
+                                "linkUrl": "#",
+                                "id": "eligibilityBenefitRequests"
+                            },
+                            {
+                                "text": "Responses",
+                                "linkUrl": "#",
+                                "id": "eligibilityBenefitResponses"
+                            }
+                        ]
+                    },
+                    {
+                        "text": "Service Review",
+                        "linkUrl": "#",
+                        "id": "serviceReviewId",
+                        "subMenu": [
+                            {
+                                "text": "Request",
+                                "linkUrl": "#",
+                                "id": "serviceReviewRequestId"
+                            },
+                            {
+                                "text": "Responses",
+                                "linkUrl": "#",
+                                "id": "serviceReviewResponseId"
+                            }
+                        ]
+                    },
+                    {
+                        "text": "Premium Payments",
+                        "linkUrl": "#",
+                        "id": "premiumPaymentsId"
+                    },
+                    {
+                        "text": "Member Maintainance",
+                        "linkUrl": "#",
+                        "id": "memberMaintainanceId"
+                    }
+                ]
+            }
+        ],
+        "tasks": [
+            {
+                "text": "Upload a file",
+                "linkUrl": "#",
+                "id": "uploadFileId"
+            },
+            {
+                "text": "Add Partner",
+                "linkUrl": "#",
+                "id": "addPartnerId"
+            },
+            {
+                "text": "Add Contact",
+                "linkUrl": "#",
+                "id": "addContactId"
+            },
+            {
+                "text": "Import Contacts",
+                "linkUrl": "#",
+                "id": "importContactsId"
+            },
+            {
+                "text": "Create Message",
+                "linkUrl": "#",
+                "id": "createMessageId"
+            }
+        ]
+    },
+    {
+        "id": "partnerId",
+        "name": "Trading Partner Management",
+        "tooltip": "Trading Partner Management",
+        "contextHelp": true,
+        "taskheading": "tasks",
+        "icon": "./resources/images/doormat/tpm.png",
+        "defaultLinkUrl":"#",
+        "menu": [
+            {
+                "columnOne": [
+                    {
+                        "text": "Partners",
+                        "linkUrl": "#",
+                        "id": "partnersId"
+                    },
+                    {
+                        "text": "EDI Enrollments",
+                        "linkUrl": "#",
+                        "id": "ediEnrollmentsId"
+                    },
+                    {
+                        "text": "Contacts",
+                        "linkUrl": "#",
+                        "id": "contactsId"
+                    },
+                    {
+                        "text": "Relationships",
+                        "linkUrl": "#",
+                        "id": "relationshipsId"
+                    },
+                    {
+                        "text": "Agreements",
+                        "linkUrl": "#",
+                        "id": "agreementsId"
+                    }
+                ]
+            }
+        ],
+        "tasks": [
+            {
+                "text": "Add Partner",
+                "linkUrl": "#",
+                "id": "addPartnerId"
+            },
+            {
+                "text": "Add Contact",
+                "linkUrl": "#",
+                "id": "addContactId"
+            },
+            {
+                "text": "Import Contacts",
+                "linkUrl": "#",
+                "id": "importContactsId"
+            },
+            {
+                "text": "Create Message",
+                "linkUrl": "#",
+                "id": "createMessageId"
+            }
+        ]
+    },
+    {
+        "id": "settingId",
+        "type": "settings",
+        "tooltip": "Settings",
+        "name": "Settings",
+        "menu": [
+            {
+                "columnOne": [
+                    {
+                        "text": "Roles and Permissions",
+                        "linkUrl": "#",
+                        "id": "rolesandpermissionsId"
+                    },
+                    {
+                        "text": "Community Settings",
+                        "linkUrl": "#",
+                        "id": "communitySettingsId"
+                    },
+                    {
+                        "text": "Business Rules",
+                        "linkUrl": "#",
+                        "id": "bussinessRulesId"
+                    },
+                    {
+                        "text": "Custom Fields",
+                        "linkUrl": "#",
+                        "id": "customFieldsId"
+                    },
+                    {
+                        "text": "Audit Report",
+                        "linkUrl": "#",
+                        "id": "auditReportId"
+                    }
+                ]
+            },
+            {
+                "columnTwo": [
+                    {
+                        "text": "Configure Business Roles",
+                        "linkUrl": "#",
+                        "id": "configureBusinessRolesId"
+                    },
+                    {
+                        "text": "Configure Identifier Definitions",
+                        "linkUrl": "#",
+                        "id": "configureIdentifierDefId"
+                    },
+                    {
+                        "text": "Agreements",
+                        "linkUrl": "#",
+                        "id": "agreementsId"
+                    },
+                    {
+                        "text": "Manage Transaction Centers",
+                        "linkUrl": "#",
+                        "id": "manageTransactionId"
+
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "aboutId",
+        "type": "aboutProduct",
+        "tooltip": "About Product",
+        "contextHelp": true,
+        "name": "about",
+        "taskheading": "see also",
+        "menu": [
+            {
+                "text": "Edifecs&reg; Transaction Management&trade; and Edifecs&reg; Trading Partner Management&trade; Version 9.0<br/>&copy; 2013 Edifecs, Inc. All rights reserved.<br/><br/>This software is protected by copyright law and interational treaties. Unauthorized reproduction or distribution of this program, or any portion of it, may result in severe civil and criminal penalties, and will be prosecuted to the maximum extent possible under the law.<br/><br/>Product is Licenced to BCBS Bellevue&reg;",
+                "id": "seeAlsoLink",
+                "image": "./resources/images/Logo-About.png",
+                "hrefTarget": "_blank",
+                "linkName": "www.edifecs.com",
+                "linkUrl": "http://www.edifecs.com"
+            }
+        ],
+        "tasks": [
+            {
+                "text": "Support",
+                "linkUrl": "#",
+                "id": "supportId"
+            },
+            {
+                "text": "Contact us",
+                "linkUrl": "#",
+                "id": "contactusId"
+            },
+            {
+                "text": "Other products",
+                "linkUrl": "#",
+                "id": "otherproductsId"
+            }
+        ]
+    }
+]
